@@ -29,8 +29,10 @@
   <a href="https://www.linkedin.com/in/luis-fernando-a01027246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div align="right">
+  <img height="200" src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif"  />
+</div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 <div align="lefth">
